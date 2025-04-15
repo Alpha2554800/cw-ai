@@ -1,0 +1,15 @@
+Q1 AI coursework
+
+progress and future points 1st April-
+1. question 1 has 5 steps
+2. faced issue while calculating distance 
+3.clarified with Simpson
+4.tried with cleaned data, removed extra pages
+5.removed the words having -inf values
+6.got appropriate result in 5 clusters
+7.used elbow method.
+
+1.need to try with other clustering methods
+2.find optimum no of clusters for each method.
+3.currently using 90 words, 10 more words needed
+4.use LLM to select words- extra 2 marks for this
